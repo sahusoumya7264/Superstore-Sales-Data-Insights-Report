@@ -78,4 +78,5 @@ Seasonality affects overall sales volume. Strategically timed discounts and prom
   - Optimizing shipping operations, and
   - Enhancing promotional timing to sustain long-term profitability.
  
- [Dashboard][  <img src="https://github.com/sahusoumya7264/Superstore-Sales-Data-Insights-Report/blob/main/Screenshot%202025-10-21%20204313.png"  width="550" height="250" style="vertical-align:middle;"/>]
+ [Dashboard]
+ [  <img src="https://github.com/sahusoumya7264/Superstore-Sales-Data-Insights-Report/blob/main/Screenshot%202025-10-21%20204313.png"  width="550" height="250" style="vertical-align:middle;"/>]
