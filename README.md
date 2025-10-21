@@ -77,3 +77,5 @@ Seasonality affects overall sales volume. Strategically timed discounts and prom
   - Strengthening weak regions,
   - Optimizing shipping operations, and
   - Enhancing promotional timing to sustain long-term profitability.
+ 
+ [Dashboard][  <img src=""  width="550" height="250" style="vertical-align:middle;"/>]
